@@ -1,0 +1,1 @@
+Arquivos da pasta vc7.
