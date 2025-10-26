@@ -1,7 +1,7 @@
 <!-- ✨ README.md by Andreza C G Santos | SynergyXZK ✨ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akassias/assets/![Logo](assets/logo.png)" width="180" alt="SynergyXZK Logo">
+  <img src="https://raw.githubusercontent.com/Akassias/Akassias/main/assets/logo.png" width="180" alt="SynergyXZK Logo">
 </p>
 
 <h1 align="center">👋 Hey there, I'm Andreza Santos</h1>
