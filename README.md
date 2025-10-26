@@ -1,7 +1,7 @@
 <!-- ✨ README.md by Andreza C G Santos | SynergyXZK ✨ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akassias/assets/main/synergyxzk-logo.png" width="120" alt="SynergyXZK Logo">
+  <img src="https://raw.githubusercontent.com/Akassias/assets/main/synergyxzk-logo2.png" width="180" alt="SynergyXZK Logo">
 </p>
 
 <h1 align="center">👋 Hey there, I'm Andreza Santos</h1>
@@ -70,4 +70,4 @@ Next.js | React | Node.js | Polygon | Hardhat | Alchemy | Firebase | Web3 | ZK P
 <!--
 Customize badges, widgets, and visuals to match your vibe.
 Add GitHub stats, contribution graphs, or animated banners if desired.
-
+-->
